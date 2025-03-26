@@ -1,2 +1,2 @@
 # cf-hellowowrld
-CF pipeline simple
+CF pipeline simple sir
